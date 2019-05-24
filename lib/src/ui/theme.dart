@@ -6,6 +6,10 @@ final ThemeData themeLight = ThemeData(
     title: TextStyle(
       fontSize: 20,
       color: Colors.redAccent
+    ),
+    body1:TextStyle(
+      fontSize: 20,
+      color: Colors.black
     )
   ),
   appBarTheme: AppBarTheme(
